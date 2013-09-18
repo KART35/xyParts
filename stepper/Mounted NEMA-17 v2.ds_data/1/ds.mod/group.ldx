@@ -1,0 +1,64 @@
+fem2esh - Make esh file from fem file for a specified design scenario
+Version 2013.00.00.0411-W64/X64 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+  Version of fem2esh.exe          : 2013.00000411
+  Version of dcx1-win-x64.dll     : 2013.00000411
+  Version of femapi-win-x64.dll   : 2013.00000411
+  Version of agsdb_ar-win-x64.dll : 2013.00000411
+  Version of tsx2tsy.exe          : 2013.00000411
+
+  Input Model     : C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.ds_data\1\ds
+  Input File      : C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.fem
+  Output File     : C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.ds_data\1\ds.mod\group.esh
+  Log File        : C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.ds_data\1\ds.mod\group.ldx
+  Design scenario : 1
+  Analysis type   : Linear Stress
+  Start time      : 2013/09/16-17:15:22  
+
+  --- Get 7 active element parts in range [1, 7] from fem file
+  --- 1 enabled L&C groups are defined
+  --- Get 41715 points defined in range [1, 41715] from fem file
+  Calling the Surface Topology Generator (tsx2tsy)...
+  tsx2tsy: Update part surface contact/bonding data (duration=0 sec.)
+  --- No mid-side node required
+  Set up FEM points and B.C. by connected elements...
+  --- Load up 3957 non-trivial coincident nodal pairs of 3957 in FEM
+  Consolidate points between parts using contact definitions...
+  --- 1388 out of 1388 contact definitions have been used in bonding nodes
+  Compress FEM points to ESH nodes...
+  --- Found 19786 independent nodes
+  --- 19786 mesh nodes formed from 41715 FEM points
+  Output the mapping arrays of FEM points to FEA nodes...
+  Add user defined nodal B.C.'s...
+  Loop 1 contact pairs to build enabled contacts...
+  Get beam loads and constraints data...
+  Writing to ESH file in phase I (nodes & elements)...
+  --- Part1: type=8, flags=7, meshType=10, elements=8613, maximumID=8613
+  --- Part2: type=8, flags=7, meshType=10, elements=1509, maximumID=1509
+  --- Part3: type=8, flags=7, meshType=10, elements=1442, maximumID=1442
+  --- Part4: type=8, flags=7, meshType=10, elements=1555, maximumID=1555
+  --- Part5: type=8, flags=7, meshType=10, elements=1851, maximumID=1851
+  --- Part6: type=8, flags=7, meshType=10, elements=6392, maximumID=6392
+  --- Part7: type=8, flags=7, meshType=10, elements=10538, maximumID=10538
+  Working on MPCs...
+  --- No MPC made in the model.
+  Writing to ESH file in phase II (FEA objects)...
+  Working on 1 surface moments...
+  --- Done global moment 1
+
+  Use global coordinate system, no local coordinate system defined.
+
+
+  == Model Stats ==
+
+  FEA Nodes & Elements:
+  --- 19786 mesh nodes
+  --- 1388 nodes bonded.
+  --- 7 parts and total 31900 elements
+  FEA Object (total made 72):
+  --- Nodal Forces: 72
+  --- Surface Moments: 1
+  FEM2ESH Duration: 1 seconds (CPU time)
+
+2013/09/16-17:15:23

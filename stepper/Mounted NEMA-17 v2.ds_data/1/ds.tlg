@@ -1,0 +1,21 @@
+﻿TSX2TSY Version 2013.0 28-Feb-2012
+Copyright (c) 2012, Autodesk, Inc. All rights reserved.
+
+    Time:	09/16/13 17:11:31
+
+    Input : C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.fem
+    Output: C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.fem
+
+    Command Line: "-a=100" -t=-0.00263048 C:\Users\Ian\Documents\Inventor\xyPartStorage\stepper\Mounted NEMA-17 v2.tsx -ds=1
+    Shortest/Longest line in Part 1 : 0.007735 / 0.223098
+    Shortest/Longest line in Part 2 : 0.003839 / 0.070312
+    Shortest/Longest line in Part 3 : 0.003839 / 0.052706
+    Shortest/Longest line in Part 4 : 0.003839 / 0.070312
+    Shortest/Longest line in Part 5 : 0.003839 / 0.052988
+    Shortest/Longest line in Part 6 : 0.011299 / 0.201025
+    Shortest/Longest line in Part 7 : 0.014594 / 0.181866
+    Node matching tolerance: 0.00263048
+    Found 1388 matched corner node pairs.
+
+    Duration: 0 seconds
+

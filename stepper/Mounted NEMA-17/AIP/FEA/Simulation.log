@@ -1,0 +1,81 @@
+﻿Simulation Simulation:1 started: 9/16/2013, 3:43:58 PM
+Number of configurations: 1
+Default mesh: 38627 elements, 70524 nodes
+Computed 8 frequency modes
+Solution time 25.1s
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/16/2013, 3:44:25 PM
+Total time 0:00:27
+
+Simulation Simulation:1 started: 9/16/2013, 3:47:44 PM
+Number of configurations: 1
+Default mesh: 32807 elements, 63413 nodes
+Computed 8 frequency modes
+Solution time 17.7s
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/16/2013, 3:48:03 PM
+Total time 0:00:19
+
+Simulation Simulation:1 started: 9/16/2013, 3:51:59 PM
+Number of configurations: 1
+Default mesh: 32807 elements, 63413 nodes
+Computed 8 frequency modes
+Solution time 15.7s
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/16/2013, 3:52:16 PM
+Total time 0:00:17
+
+Simulation Simulation:1 started: 9/16/2013, 3:58:36 PM
+Number of configurations: 1
+Default mesh: 32689 elements, 63249 nodes
+Computed 8 frequency modes
+Solution time 15.5s
+Reached the total number of h refinements 
+Simulation Simulation:1 finished: 9/16/2013, 3:59:00 PM
+Total time 0:00:24
+
+Simulation Simulation:2 started: 9/16/2013, 4:02:39 PM
+Number of configurations: 1
+Default mesh: 32794 elements, 63397 nodes
+Computed 8 frequency modes
+Solution time 17.5s
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 9/16/2013, 4:03:03 PM
+Total time 0:00:24
+
+Simulation Simulation:2 started: 9/16/2013, 4:04:16 PM
+Number of configurations: 1
+Default mesh: 32794 elements, 63397 nodes
+Computed 8 frequency modes
+Solution time 18s
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 9/16/2013, 4:04:36 PM
+Total time 0:00:20
+
+Simulation Simulation:2 started: 9/16/2013, 4:10:24 PM
+Number of configurations: 1
+Default mesh: 16723 elements, 31092 nodes
+Computed 8 frequency modes
+Solution time 5.8s
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 9/16/2013, 4:10:34 PM
+Total time 0:00:10
+
+Simulation Simulation:2 started: 9/16/2013, 4:13:27 PM
+Number of configurations: 1
+Default mesh: 16881 elements, 31313 nodes
+Computed 8 frequency modes
+Solution time 6s
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 9/16/2013, 4:13:38 PM
+Total time 0:00:11
+
+Simulation Simulation:2 started: 9/16/2013, 4:14:08 PM
+Number of configurations: 1
+Default mesh: 16881 elements, 31313 nodes
+Computed 8 frequency modes
+Solution time 4.9s
+Reached the total number of h refinements 
+Simulation Simulation:2 finished: 9/16/2013, 4:14:14 PM
+Total time 0:00:06
+
